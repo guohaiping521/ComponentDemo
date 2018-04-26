@@ -1,0 +1,52 @@
+{
+	"teacherName": "况洁",
+	"courseName": "【体验课+精+数】课程标签和折扣价和已报人数和停售时间",
+	"teacherInfoList": [{
+		"teacherAvatar": "https://img.zuoyebang.cc/zyb_b0208d4ab9e2b0a3ac52033cd77af6f7.jpg@f_jpg,h_105",
+		"teacherName": "况洁",
+		"teacherUid": 2140327332
+	}],
+	"discount": [{
+		"desc": "课程配套服务"
+	}, {
+		"desc": "新生特惠"
+	}],
+	"feature": "",
+	"grade": "五年级",
+	"teacherHalfavatar": "",
+	"teacherExt": "",
+	"teacherAvatar": "zyb_b0208d4ab9e2b0a3ac52033cd77af6f7",
+	"tagName": "体验课",
+	"subjectOne": "数",
+	"onlineTime": "3月7日 19:00",
+	"subject": "数学",
+	"studentCntDesc": "已报303人",
+	"statusInfo": {
+		"timeContent": "",
+		"statusContent": "<font color='#999999'>距离预约开始还有</font><font color='#FB7F2D'>33</font><font color='#999999'>天</font>",
+		"midtext": "midtext",
+		"pretext": "pretext",
+		"price": "price",
+		"status": "status",
+		"countDowntime": 0,
+		"isShow": 0
+	},
+	"registerToStopTime": "5小时57分",
+	"registerToStartTime": "",
+	"registerStopTime": 1521879496,
+	"teacherId": 2140327332,
+	"registerStop": 1,
+	"registerStatus": 1,
+	"registerStartTime": 1521874496,
+	"stopViewTime": 1,
+	"price": 666666,
+	"originPrice": 300,
+	"isStop": 0,
+	"isReg": 0,
+	"isOnline": 0,
+	"isHighquality": 1,
+	"ifFull": 0,
+	"registerStudentNum": 303,
+	"courseType": 4,
+	"courseId": 49418
+}
